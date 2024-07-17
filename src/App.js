@@ -12,7 +12,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route
-            path="/crisis-project"
+            path="/crisis-project/"
             element = {
               <Navbar title="Dashboard">
                 <Dashboard/>

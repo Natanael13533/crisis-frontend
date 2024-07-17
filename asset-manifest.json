@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Natanael13533/crisis-project/static/css/main.95266359.css",
+    "main.js": "/Natanael13533/crisis-project/static/js/main.bf13e528.js",
+    "static/js/453.2dba7cb3.chunk.js": "/Natanael13533/crisis-project/static/js/453.2dba7cb3.chunk.js",
+    "static/media/crisis-nav.jpeg": "/Natanael13533/crisis-project/static/media/crisis-nav.126a79cfc1b1dc6ecb53.jpeg",
+    "index.html": "/Natanael13533/crisis-project/index.html",
+    "main.95266359.css.map": "/Natanael13533/crisis-project/static/css/main.95266359.css.map",
+    "main.bf13e528.js.map": "/Natanael13533/crisis-project/static/js/main.bf13e528.js.map",
+    "453.2dba7cb3.chunk.js.map": "/Natanael13533/crisis-project/static/js/453.2dba7cb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95266359.css",
+    "static/js/main.bf13e528.js"
+  ]
+}

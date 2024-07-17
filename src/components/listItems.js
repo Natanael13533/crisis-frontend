@@ -9,7 +9,7 @@ import { Apps } from '@mui/icons-material';
 
 export const mainListItems = (
   <React.Fragment>
-    <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
+    <Link to="/crisis-frontend/" style={{ textDecoration: 'none', color: 'inherit' }}>
       <ListItemButton>
         <ListItemIcon>
           <DashboardIcon />
